@@ -11,15 +11,10 @@ I believe programming is a journey of continuous learning. Every new technology 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
-[![Next.js](https://img.shields.io/badge/-Next.js-FFFFFF?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=white)](#)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
 [![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=for-the-badge&labelColor=black&logo=reactrouter&logoColor=CA4245)](#)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#)
-[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
-[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769AD)](#)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&labelColor=black&logo=vite&logoColor=646CFF)](#)
 
 ---
