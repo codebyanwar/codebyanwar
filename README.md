@@ -77,10 +77,13 @@ I believe programming is a journey of continuous learning. Every new technology 
 
 #### Database
 
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+
+<!-- TODO: Add installation instructions later
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=003545)](#)
 [![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=07405E)](#)
+-->
 
 ---
 
