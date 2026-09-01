@@ -96,6 +96,8 @@ I believe programming is a journey of continuous learning. Every new technology 
 [![Apache](https://img.shields.io/badge/-Apache-D42029?style=for-the-badge&labelColor=black&logo=apache&logoColor=D42029)](#)
 [![Vercel](https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=00C7B7)](#)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-16C47F?style=for-the-badge&labelColor=black)](#)
+[![Trello](https://img.shields.io/badge/-Trello-16C47F?style=for-the-badge&labelColor=black)](#)
 
 <!-- TODO: Add installation instructions later
 
