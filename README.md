@@ -19,7 +19,7 @@ I believe programming is a journey of continuous learning. Every new technology 
 
 ---
 
-#### Backend Development
+/* #### Backend Development */
 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)
