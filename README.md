@@ -41,7 +41,7 @@ I believe programming is a journey of continuous learning. Every new technology 
 [![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&labelColor=black&logo=woocommerce&logoColor=96588A)](#)
 [![Gutenberg](https://img.shields.io/badge/-Gutenberg-077CB2?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=077CB2)](#)
 [![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&labelColor=black&logo=elementor&logoColor=92003B)](#)
-[![Elementor Pro](https://img.shields.io/badge/-Elementor_Pro-5E17EB?style=for-the-badge&labelColor=black&logo=elementor&logoColor=5E17EB)](#)
+<!-- [![Elementor Pro](https://img.shields.io/badge/-Elementor_Pro-5E17EB?style=for-the-badge&labelColor=black&logo=elementor&logoColor=5E17EB)](#) -->
 [![Divi](https://img.shields.io/badge/-Divi-7C3AED?style=for-the-badge&labelColor=black&logo=divi&logoColor=7C3AED)](#)
 [![WPBakery](https://img.shields.io/badge/-WPBakery-1E88E5?style=for-the-badge&labelColor=black)](#)
 [![Bricks](https://img.shields.io/badge/-Bricks-FF6B00?style=for-the-badge&labelColor=black)](#)
