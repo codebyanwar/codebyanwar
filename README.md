@@ -43,11 +43,12 @@ I believe programming is a journey of continuous learning. Every new technology 
 [![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&labelColor=black&logo=elementor&logoColor=92003B)](#)
 [![Divi](https://img.shields.io/badge/-Divi-7C3AED?style=for-the-badge&labelColor=black&logo=divi&logoColor=7C3AED)](#)
 [![WPBakery](https://img.shields.io/badge/-WPBakery-1E88E5?style=for-the-badge&labelColor=black)](#)
-[![Bricks](https://img.shields.io/badge/-Bricks-FF6B00?style=for-the-badge&labelColor=black)](#)
-[![Oxygen](https://img.shields.io/badge/-Oxygen-FFFFFF?style=for-the-badge&labelColor=black)](#)
 [![Crocoblock](https://img.shields.io/badge/-Crocoblock-16C47F?style=for-the-badge&labelColor=black)](#)
 [![ACF](https://img.shields.io/badge/-ACF-16C47F?style=for-the-badge&labelColor=black)](#)
-<!-- [![Elementor Pro](https://img.shields.io/badge/-Elementor_Pro-5E17EB?style=for-the-badge&labelColor=black&logo=elementor&logoColor=5E17EB)](#) -->
+<!-- [![Elementor Pro](https://img.shields.io/badge/-Elementor_Pro-5E17EB?style=for-the-badge&labelColor=black&logo=elementor&logoColor=5E17EB)]
+[![Bricks](https://img.shields.io/badge/-Bricks-FF6B00?style=for-the-badge&labelColor=black)](#)
+[![Oxygen](https://img.shields.io/badge/-Oxygen-FFFFFF?style=for-the-badge&labelColor=black)](#)
+(#) -->
 
 
 ---
